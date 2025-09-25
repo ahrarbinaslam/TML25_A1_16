@@ -1,4 +1,4 @@
-# Membership Inference Attack (TML Assignment 1 – Team 16)
+# Membership Inference Attack
 
 This repository contains our implementation of a **Membership Inference Attack (MIA)** against an image classification model, developed as part of the Trustworthy Machine Learning course at Saarland University.
 
